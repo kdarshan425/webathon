@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is 'WEB<ATHON>' Website</h1><br>
+<h1 align="center">Hi 👋, This is 'WEBATHON' Website</h1><br>
 <h3><b> Run Time Terror : </b></h3><p>This is a Web Coding event ! arranged by ETSA PCCOE in 2022.</p>
 <h5><b>Code Url : </b>https://github.com/kdarshan425/webathon/</h5>
 <h5><b>Live Url : </b>https://kdarshan425.github.io/webathon/</h5>
